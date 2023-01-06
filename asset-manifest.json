@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.3edf197d.css",
-    "main.js": "./static/js/main.d4b0bc6a.js",
+    "main.js": "./static/js/main.f9db78a2.js",
     "static/media/slide4.jpg": "./static/media/slide4.d460de7efd9d20193333.jpg",
     "static/media/slide2.jpg": "./static/media/slide2.f906de138c0808b1962e.jpg",
     "static/media/slide3.jpg": "./static/media/slide3.ea0174f49c02159948cf.jpg",
@@ -26,10 +26,10 @@
     "static/media/sports.jpg": "./static/media/sports.1c30bd724455afc333f9.jpg",
     "index.html": "./index.html",
     "main.3edf197d.css.map": "./static/css/main.3edf197d.css.map",
-    "main.d4b0bc6a.js.map": "./static/js/main.d4b0bc6a.js.map"
+    "main.f9db78a2.js.map": "./static/js/main.f9db78a2.js.map"
   },
   "entrypoints": [
     "static/css/main.3edf197d.css",
-    "static/js/main.d4b0bc6a.js"
+    "static/js/main.f9db78a2.js"
   ]
 }
